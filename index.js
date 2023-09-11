@@ -28,6 +28,17 @@ const run = async () => {
       res.send({ status: true, data: book });
     });
 
+    app.get('/recent-books', async (req, res) => {
+      const cursor = bookCollection.find({}).sort({ _id: -1 }).limit(10);
+      const recentBooks = await cursor.toArray();
+
+      if (recentBooks.length === 0) {
+        return res.status(404).send({ error: 'No books found' });
+      }
+
+      res.send({ status: true, data: recentBooks });
+    });
+
     app.post('/book', async (req, res) => {
       const book = req.body;
       const result = await bookCollection.insertOne(book);
