@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "imageURL": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657.jpg",
+    "publicationDate": "1960-07-11",
+    "reviews": []
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "imageURL": "https://prod-bb-images.akamaized.net/book-covers/coverimage-9782384650071-bookwire-2022-05-12t11-30.jpg?w=400",
+    "publicationDate": "1949-06-08",
+    "reviews": []
+  },
+  {
+    "id": 3,
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure",
+    "imageURL": "https://mpd-biblio-covers.imgix.net/9781466804128.jpg",
+    "publicationDate": "1851-10-18",
+    "reviews": []
+  },
+  {
+    "id": 4,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance",
+    "imageURL": "https://theperksofbeingnourablog.files.wordpress.com/2021/01/pride-and-prejudice-barnes-noble-collectible-editions-1.jpg",
+    "publicationDate": "1813-01-28",
+    "reviews": []
+  },
+  {
+    "id": 5,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Novel",
+    "imageURL": "https://m.media-amazon.com/images/I/71FTb9X6wsL._AC_UF1000,1000_QL80_.jpg",
+    "publicationDate": "1925-04-10",
+    "reviews": []
+  },
+  {
+    "id": 6,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg",
+    "publicationDate": "1932-08-24",
+    "reviews": []
+  },
+  {
+    "id": 7,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553383690i/2657.jpg",
+    "publicationDate": "1951-07-16",
+    "reviews": []
+  },
+  {
+    "id": 8,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction",
+    "imageURL": "https://m.media-amazon.com/images/I/A1aDb5U5myL._AC_UF1000,1000_QL80_.jpg",
+    "publicationDate": "1869-01-01",
+    "reviews": []
+  },
+  {
+    "id": 9,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Adventure",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg",
+    "publicationDate": "1988-05-01",
+    "reviews": []
+  },
+  {
+    "id": 10,
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "genre": "Historical Fiction",
+    "imageURL": "https://m.media-amazon.com/images/I/914h7ms4FXL._AC_UF1000,1000_QL80_.jpg",
+    "publicationDate": "2005-09-01",
+    "reviews": []
+  },
+  {
+    "id": 11,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel Garcia Marquez",
+    "genre": "Magic Realism",
+    "imageURL": "https://m.media-amazon.com/images/I/71IWwBoDNsL._AC_UF894,1000_QL80_.jpg",
+    "publicationDate": "1967-06-05",
+    "reviews": []
+  },
+  {
+    "id": 12,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "genre": "Dystopian",
+    "imageURL": "https://m.media-amazon.com/images/I/61z7RDG3OIL._AC_UF1000,1000_QL80_.jpg",
+    "publicationDate": "1953-10-19",
+    "reviews": []
+  },
+  {
+    "id": 13,
+    "title": "Lord of the Flies",
+    "author": "William Golding",
+    "genre": "Fiction",
+    "imageURL": "https://m.media-amazon.com/images/I/81jlbxMyR4L._AC_UF894,1000_QL80_.jpg",
+    "publicationDate": "1954-09-17",
+    "reviews": []
+  },
+  {
+    "id": 14,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "imageURL": "https://m.media-amazon.com/images/I/710+HcoP38L._AC_UF1000,1000_QL80_.jpg",
+    "publicationDate": "1937-09-21",
+    "reviews": []
+  },
+  {
+    "id": 15,
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661032875i/11127.jpg",
+    "publicationDate": "1956-09-16",
+    "reviews": []
+  }
+]
