@@ -85,7 +85,7 @@ const run = async () => {
 
     app.post('/review/:id', async (req, res) => {
       const bookId = req.params.id;
-      const review = req.body.review;
+      const review = req.body;
 
       const result = await bookCollection.updateOne(
         { _id: ObjectId(bookId) },
@@ -99,21 +99,6 @@ const run = async () => {
       }
 
       res.json({ message: 'review added successfully' });
-    });
-
-    app.get('/review/:id', async (req, res) => {
-      const bookId = req.params.id;
-
-      const result = await bookCollection.findOne(
-        { _id: ObjectId(bookId) },
-        { projection: { _id: 0, reviews: 1 } }
-      );
-
-      if (result) {
-        res.json(result);
-      } else {
-        res.status(404).json({ error: 'book not found' });
-      }
     });
 
     app.post('/user', async (req, res) => {
